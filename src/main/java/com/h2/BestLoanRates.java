@@ -1,6 +1,6 @@
 package com.h2;
 
-public class BestLoanRates {package com.h2;
+public class BestLoanRates {
 
 import java.util.Map;
 import java.util.Scanner;
